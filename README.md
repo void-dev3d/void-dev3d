@@ -7,4 +7,4 @@
                                                                                                   
 ```
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=6EBBF7&background=FFFFFF00&vCenter=true&width=442&lines=I+Love+To+Code!;I+Make+Games+With+Godot;I+Am+A+developer!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hello!;It+is+me!)](https://git.io/typing-svg)
