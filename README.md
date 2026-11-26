@@ -6,6 +6,7 @@
 
 - I like making multiplayer games, mods and desktop tools
 - I daily drive Fedora with KDE
+- I go by He/Him and i am part of the lgbtq+ community 
 
 ## What I'm working on
 
